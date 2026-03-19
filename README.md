@@ -8,6 +8,7 @@ Use o comando:
 ```node main.js ```
 
 Baixe as bibliotecas:
+
 **Mysql2**
 ```npm i mysql2``` 
 
@@ -16,8 +17,11 @@ Baixe as bibliotecas:
 ``npm i readline-sync ``
 
 ## funcionalidades incluem:
-- Cadastro de usuários
-- Agendar manutenção
+- Cadastro de usuário
+- Visualizar usuarios cadastrados
+- Deletar usuário
+- Atualizar informações
+  
 
 
 
