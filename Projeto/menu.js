@@ -1,5 +1,6 @@
 export function menu(){
     console.log("======  Bem Vindo ======")
+    console.log("                        ")
     console.log("      Se cadastre!      ")
     console.log("1. Cadastro de usuário  ")
     console.log("                        ")
